@@ -1,0 +1,52 @@
+{
+    "tools": {
+        "wiztree": {
+            "download":"https://diskanalyzer.com/files/wiztree_4_19_portable.zip",
+            "details":"", 
+            "type":"zip",
+            "purpose":"Drive"
+        }, 
+        "equalizerapo":{
+            "download":"https://sourceforge.net/projects/equalizerapo/files/latest/download", 
+            "details":"", 
+            "type":"exe",
+            "purpose":"Audio"
+        },
+        "cc-cleaner":{
+            "download":"https://download.ccleaner.com/portable/ccsetup622.zip", 
+            "details":"", 
+            "type":"zip",
+            "purpose":"Drive"
+        }, 
+        "Everything Search Engine": {
+            "download":"https://www.voidtools.com/Everything-1.4.1.1024.x64.zip",
+            "details":"", 
+            "type":"zip",
+            "purpose":"Drive"
+        }, 
+        "Procmon": {
+            "download":"https://download.sysinternals.com/files/ProcessMonitor.zip",
+            "details":"",
+            "type":"zip",
+            "purpose":"System Process Monitoring"
+        },
+        "WireShark":{
+            "download":"https://2.na.dl.wireshark.org/win64/WiresharkPortable64_4.2.4.paf.exe", 
+            "details":"",
+            "type":"exe",
+            "purpose":"Network Monitooing"
+        }, 
+        "HWiNFO":{
+            "download":"https://sourceforge.net/projects/hwinfo/files/Windows_Portable/hwi_800.zip/download", 
+            "details":"", 
+            "type":"zip", 
+            "purpose":"System Monitoring"
+        }, 
+        "VeraCrypt": {
+            "download":"https://launchpad.net/veracrypt/trunk/1.26.7/+download/VeraCrypt%20Portable%201.26.7.exe", 
+            "details":"",
+            "type":"exe",
+            "purpose":"Drive"
+        }
+    }
+}
