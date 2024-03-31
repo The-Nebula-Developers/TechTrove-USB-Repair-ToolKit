@@ -54,7 +54,9 @@ Extract the zip archive into a folder.
 Now go into the folder you extracted the archive to. Hold down shift and right click.
 Click on Open a command prompt windoe here.
 
-Finally, run the command "py TECHTROVE-USB-Builder.py"
+Now run the command "pip install -r requirements.txt"
+
+After that, run the command "py TECHTROVE-USB-Builder.py" to start the software.
 
 # Additional Info
 
