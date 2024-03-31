@@ -1,0 +1,6 @@
+pystyle
+rich
+aiohttp
+zipfiles
+asyncio
+psutil
