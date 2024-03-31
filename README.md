@@ -66,4 +66,4 @@ After that, run the command "py TECHTROVE-USB-Builder.py" to start the software.
 
 # Need help?
 
-You may email thenebuladevs@gmail.com, or join our Discord Sever: https://discord.gg/eJjArk3grp
+You may email support@nebuladevs.tech, or join our Discord Sever: https://discord.gg/eJjArk3grp
