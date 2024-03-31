@@ -1,6 +1,10 @@
+# Introduction
+
+Software made by The-Nebula-Dev
+Readme made by stinkyfart69420
+
 ![Group_36_1](https://github.com/The-Nebula-Developers/TechTrove-USB-Repair-ToolKit/assets/147311474/2764d6e7-e98f-4908-948d-f1187a8d955a)
 
-# README NOT FINISHED YET
 
 Have you ever wanted to download your favorite tools without having to go thru a website that is full of ads? 
 
@@ -41,5 +45,23 @@ After it's done, it will put the tools on your USB, by copying the tools you sel
 
 ![Group_30_1](https://github.com/The-Nebula-Developers/TechTrove-USB-Repair-ToolKit/assets/147311474/c5b918dd-86c5-4635-aa01-411f2dd93aa1)
 
-THIS PART ISNT FINISHED YET
+First, make sure python is installed on your PC.
 
+After that, go to https://github.com/The-Nebula-Developers/TechTrove-USB-Repair-ToolKit/archive/refs/heads/main.zip to download the software.
+
+Extract the zip archive into a folder.
+
+Now go into the folder you extracted the archive to. Hold down shift and right click.
+Click on Open a command prompt windoe here.
+
+Finally, run the command "py TECHTROVE-USB-Builder.py"
+
+# Additional Info
+
+- This software will only work on Windows.
+
+- You need python installed for it to work.
+
+# Need help?
+
+You may email thenebuladevs@gmail.com, or join our Discord Sever: https://discord.gg/eJjArk3grp
