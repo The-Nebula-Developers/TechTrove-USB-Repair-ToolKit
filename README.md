@@ -41,3 +41,5 @@ After it's done, it will put the tools on your USB, by copying the tools you sel
 
 ![Group_30_1](https://github.com/The-Nebula-Developers/TechTrove-USB-Repair-ToolKit/assets/147311474/c5b918dd-86c5-4635-aa01-411f2dd93aa1)
 
+THIS PART ISNT FINISHED YET
+
