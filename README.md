@@ -38,7 +38,7 @@ You can even download the tools to your USB drive aswell.
 
 ![Group_32](https://github.com/The-Nebula-Developers/TechTrove-USB-Repair-ToolKit/assets/147311474/8cb6a4c1-be21-4737-8e24-fb8d9cd2f0a9)
 
-The way this works is by downloading tbe tools via a command, without opening a web browser and displaying ads.
+The way this works is by downloading the tools via a command, without opening a web browser and displaying ads.
 
 After it's done, it will put the tools on your USB, by copying the tools you selected to it.
 
